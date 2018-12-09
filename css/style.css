@@ -46,7 +46,7 @@ nav ul li:hover {
 	box-sizing:border-box;
 } /*945 224 37*/
 .section1 {
-	background-image: url(img/pic.png);
+	background-image: url(../img/pic.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 }
